@@ -1,5 +1,5 @@
 h1{
-   color: chartreuse;
+   color: rgb(37, 68, 5);
 }
 
 body{
@@ -8,5 +8,5 @@ body{
 
 table tr td{
    border: 3px solid;
-   border-color: black;
+   border-color: rgb(145, 0, 0);
 }
