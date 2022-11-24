@@ -1,0 +1,12 @@
+h1{
+   color: chartreuse;
+}
+
+body{
+   background:blue;
+}
+
+table tr td{
+   border: 3px solid;
+   border-color: black;
+}
